@@ -1,5 +1,6 @@
 # 💫 About Me:
-I’m currently working on a product to track employess activities.<br>I’m looking to collaborate on ruby on rails, react and react native projects.<br>I’m looking for help with learning new technologies.<br>
+Motivated software engineer with 2.5 years of industry experience, excelling in both Frontend and Backend development. Skilled in React Native with 1 year of expertise, demonstrating adaptability in cross-platform mobile app development. A solid foundation in computer science principles, coupled with a proactive approach to learning new technologies, positions me as a versatile and forward-thinking Full Stack Developer. Eager to contribute innovative solutions to your team.
+<br>
 
 
 ## 🌐 Socials:
