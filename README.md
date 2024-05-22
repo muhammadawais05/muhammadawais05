@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated software engineer with 3 years of industry experience, excelling in both Frontend and Backend development. Skilled in React Native with 1 year of expertise, demonstrating adaptability in cross-platform mobile app development. A solid foundation in computer science principles, coupled with a proactive approach to learning new technologies, positions me as a versatile and forward-thinking Full Stack Developer. Eager to contribute innovative solutions to your team.
+Motivated software engineer with 3 years of industry experience, excelling in both Frontend and Backend development. Skilled in React Native with 1.5 years of expertise, demonstrating adaptability in cross-platform mobile app development. A solid foundation in computer science principles, coupled with a proactive approach to learning new technologies, positions me as a versatile and forward-thinking Full Stack Developer. Eager to contribute innovative solutions to your team.
 <br>
 
 
