@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineer with a strong foundation in programming and problem-solving. Proficient in programming languages and development tools. 4 years of experience in full-stack development (React, ROR), mobile development (React Native), and agile methodologies. Proven ability to design and implement scalable, efficient, and maintainable software solutions. Passionate about staying up-to-date with emerging technologies and collaborating with cross-functional teams to deliver cutting-edge products.
+Software engineer with a strong foundation in programming and problem-solving. Proficient in programming languages and development tools. 4 years of experience in full-stack development (MERN, ROR), mobile development (React Native), and agile methodologies. Proven ability to design and implement scalable, efficient, and maintainable software solutions. Passionate about staying up-to-date with emerging technologies and collaborating with cross-functional teams to deliver cutting-edge products.
 <br>
 
 
