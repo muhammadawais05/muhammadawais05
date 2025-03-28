@@ -1,5 +1,45 @@
 # 💫 About Me:
-Senior Software engineer with a strong foundation in programming and problem-solving. Proficient in programming languages and development tools. 4 years of experience in full-stack development (MERN, ROR), mobile development (React Native), and agile methodologies. Proven ability to design and implement scalable, efficient, and maintainable software solutions. Passionate about staying up-to-date with emerging technologies and collaborating with cross-functional teams to deliver cutting-edge products.
+Helped build the backend for a startup that just raised $1.2 million. I'm a Ruby on Rails expert who delivers high-performance web applications and APIs.
+
+Things I love doing: building REST APIs with ROR, integrating third-party services to enhance system functionality, and delivering scalable SaaS-based solutions.
+
+With more than 4 years of dedicated experience working with ROR, I'm just a working dad willing to give it my best.
+
+👉Why Me Over the Other Hundreds?👈
+
+1. ROR Development: Experience building scalable, high-performance web applications using Ruby on Rails technology.
+2. Third-Party Integrations: Experience integrating services such as OpenAI, Stripe, Google Suite, and more to enhance application functionality and user experience.
+3. Build efficient and reliable APIs: I specialize in designing and implementing RESTful APIs, seamlessly integrating with your existing systems.
+
+🛠️ Technologies & Tools I Specialize In:
+
+- Backend: ROR, REST APIs
+- Database: PostgreSQL, MySQL, MongoDB, Firebase, Google Cloud Firestore
+- Cloud & DevOps: AWS, Heroku, Nginx, and GitHub for version control and deployment
+- Frontend: React.js, Next.js, HTML5, CSS3, JavaScript, TypeScript, Redux, Tailwind CSS, MUI, Bootstrap
+
+🤔 Still Not Convinced?
+
+Here's my philosophy: prioritize listening, understanding, and delivering the best solutions tailored to your requirements. Because if you're happy, you're gonna talk - and word to mouth is the only true marketing.
+
+I've been working with clients worldwide, so I'm flexible and understanding. Here's my quick guarantee: effective communication and a flexible approach to project engagement, whether a long-term partnership or a one-time project.
+
+💻 What More Can I Do:
+
+- Database design and optimization: Ensuring your data is structured efficiently and performs well under pressure.
+- Cloud deployment and management: Helping you deploy your application on platforms like AWS or Heroku.
+- Frontend development support: Collaborating with your frontend team to ensure smooth integration and optimal performance.
+- Ongoing maintenance and support: Providing ongoing support and updates to keep your application running smoothly.
+
+What's Working With Me Like?
+
+📞 You can expect:
+
+- Clear and proactive communication: I'll keep you informed every step of the way, with regular updates and prompt responses to your questions.
+- A collaborative approach: I believe in working together to find the best solutions. Your input and feedback are essential throughout the process.
+- A focus on quality: I'm committed to delivering clean, well-documented code that is easy to maintain and scale.
+
+🤝 Drop me a text anytime of the day, and I'll be there for you.
 <br>
 
 
